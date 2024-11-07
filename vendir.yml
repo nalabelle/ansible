@@ -6,7 +6,7 @@ directories:
       - path: community.general
         git:
           url: https://github.com/ansible-collections/community.general
-          ref: 9.5.0
+          ref: 9.5.1
           depth: 1
       - path: hetzner.cloud
         git:
@@ -18,7 +18,7 @@ directories:
       - path: unattended_upgrades
         git:
           url: https://github.com/hifis-net/ansible-collection-toolkit
-          ref: origin/tags/v4.7.0
+          ref: v4.8.0
           depth: 1
         includePaths:
           - roles/unattended_upgrades/**/*
