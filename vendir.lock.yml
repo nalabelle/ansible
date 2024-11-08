@@ -2,10 +2,10 @@ apiVersion: vendir.k14s.io/v1alpha1
 directories:
 - contents:
   - git:
-      commitTitle: Release 9.5.0.
-      sha: 8c45cba53c89c30285b50318532cf0f2c5ad6cfa
+      commitTitle: Release 9.5.1.
+      sha: 9e0eeb0b945fdbfbcb217e6f3a6563a012ed9224
       tags:
-      - 9.5.0
+      - 9.5.1
     path: community.general
   - git:
       commitTitle: 'chore(main): release 4.2.1 (#562)...'
@@ -16,10 +16,10 @@ directories:
   path: vendor/ansible_collection
 - contents:
   - git:
-      commitTitle: 'Merge pull request #304 from tobiashuste/prepare-4-7-0...'
-      sha: 6f1f945becbd7fa540642c70a93a23c8cc876718
+      commitTitle: 'Merge pull request #313 from tobiashuste/prepare-4-8-0...'
+      sha: 9717a3d27b6e842148d2d9860d51488467135c27
       tags:
-      - v4.7.0
+      - v4.8.0
     path: unattended_upgrades
   path: vendor/ansible_roles
 kind: LockConfig
