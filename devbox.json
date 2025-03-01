@@ -10,7 +10,7 @@
     "_1password@1.12.2",
     "python312Packages.hcloud@1.35.0",
     "vendir@0.43.0",
-    "nodePackages.prettier@2.8.8",
+    "nodePackages.prettier@3.5.2",
     "glibcLocales@latest"
   ],
   "shell": {
